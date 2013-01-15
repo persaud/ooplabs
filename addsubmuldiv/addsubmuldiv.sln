@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "addsubmuldiv", "addsubmuldiv\addsubmuldiv.vcxproj", "{50FD9772-E14E-40B1-94DB-C5E404C20682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FD9772-E14E-40B1-94DB-C5E404C20682}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50FD9772-E14E-40B1-94DB-C5E404C20682}.Debug|Win32.Build.0 = Debug|Win32
+		{50FD9772-E14E-40B1-94DB-C5E404C20682}.Release|Win32.ActiveCfg = Release|Win32
+		{50FD9772-E14E-40B1-94DB-C5E404C20682}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
